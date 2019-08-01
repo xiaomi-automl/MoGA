@@ -1,7 +1,6 @@
 # MoGA: Searching Beyond MobileNetV3
 
 We propose the first Mobile GPU-Aware (MoGA) neural architecture search, so to be precisely tailored for real-world applications. Further, the ultimate objective to devise a mobile network lies in achieving better performance by maximizing the utilization of bounded resources. Counterintuitively, while urging higher capability and restraining their time consumption, we step forward to find networks by enlarging their numbers of parameters as many as possible to increase their representational power. We deliver our searched networks at a mobile scale that outperform MobileNetV3 under the same latency constraints, i.e., MoGA-A achieves 75.9\% top-1 accuracy on ImageNet, with the same CPU latency as MobileNetV3 which scores 75.2\% , MoGA-B meets 75.4\% with same mobile GPU latency.
-
 ## MoGA Architectures
 ![](images/moga_arch.png)
 
@@ -9,6 +8,7 @@ We propose the first Mobile GPU-Aware (MoGA) neural architecture search, so to b
 * Python 3.6 +
 * Pytorch 1.0.1 +
 * The pretrained models are accessible after submitting a questionnaire: https://forms.gle/o2cUfQPieVcm3t8B8.
+* 国内用户填写问卷 https://wj.qq.com/s2/4185162/97a0 后就可以下载预训练模型。
 
 ## Benchmarks on ImageNet
 
