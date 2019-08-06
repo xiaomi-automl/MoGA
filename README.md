@@ -19,3 +19,15 @@ We propose the first Mobile GPU-Aware (MoGA) neural architecture search in order
 ## ImageNet Dataset
 
 We use the standard ImageNet 2012 dataset, the only difference is that we reorganized the validation set by their classes. 
+
+
+## Citation
+
+This repository goes with this paper, your citations are welcomed!
+
+    @article{chu2019moga,
+        title={MoGA: Searching Beyond MobileNetV3},
+        author={Chu, Xiangxiang and Zhang, Bo and Xu, Ruijun},
+        journal={arXiv preprint arXiv:1908.01314},
+        year={2019}
+    }
