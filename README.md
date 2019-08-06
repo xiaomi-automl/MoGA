@@ -29,5 +29,6 @@ This repository goes with this paper, your citations are welcomed!
         title={MoGA: Searching Beyond MobileNetV3},
         author={Chu, Xiangxiang and Zhang, Bo and Xu, Ruijun},
         journal={arXiv preprint arXiv:1908.01314},
+        url={https://arxiv.org/pdf/1908.01314.pdf},
         year={2019}
     }
