@@ -20,6 +20,12 @@ We propose the first Mobile GPU-Aware (MoGA) neural architecture search in order
 
 We use the standard ImageNet 2012 dataset, the only difference is that we reorganized the validation set by their classes. 
 
+## Evaluation
+
+To evaluate,
+
+    python3 verify.py --model [MoGA_A|MoGA_B|MoGA_C] --device [cuda|cpu] --val-dataset-root [path/to/ILSVRC2012] --pretrained-path [path/to/pretrained_model]
+
 
 ## Citation
 
