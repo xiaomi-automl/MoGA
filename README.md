@@ -11,6 +11,11 @@ We propose the first Mobile GPU-Aware (MoGA) neural architecture search in order
 * The pretrained models are accessible after submitting a questionnaire: https://forms.gle/o2cUfQPieVcm3t8B8.
 * 国内用户填写问卷 https://wj.qq.com/s2/4185162/97a0 后就可以下载预训练模型。
 
+## Discuss with Us!
+
+* QQ 群名称：小米 AutoML 交流反馈
+* 群   号：702473319
+
 ## We Are Hiring!
 
 Good news! We are AutoML Team from Xiaomi AI Lab and there are few open positions, welcome application from new graduates and professionals skilled in Deep Learning (Vision, Speech, NLP etc.)!
