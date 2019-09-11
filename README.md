@@ -18,12 +18,12 @@ We provide an instant-messaging dicussion group for Chinese users. For internati
 * QQ 群名称：小米 AutoML 交流反馈
 * 群   号：702473319 (加群请填写“神经网络架构搜索”的英文简称)
 
-## We Are Hiring!
+## We Are Hiring (Full-time & Internship)!
 
 Good news! We are AutoML Team from Xiaomi AI Lab and there are few open positions, welcome application from new graduates and professionals skilled in Deep Learning (Vision, Speech, NLP etc.)!
 
 * Please send your resume to `zhangbo11@xiaomi.com`
-* 人工智能算法/软件工程师，简历请发送至 `zhangbo11@xiaomi.com`
+* 人工智能算法/软件工程师（含实习生），简历请发送至 `zhangbo11@xiaomi.com`
 
 ## Benchmarks on ImageNet
 
